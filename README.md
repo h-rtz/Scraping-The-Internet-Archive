@@ -37,12 +37,15 @@ Spiderplot???
 # Programmcode
 
 IAScraper.ipynb - Scraper
+
 CoronaTrendsSchweiz.ipynb - Datenbereinigung und -analyse, Visualisierung
 
 # Daten
 
 html-Dateien der IA-Captures von www.nzz.ch zwischen Januar 2020 und Ende Februar 2021
+
 csv-Dateien mit Titeln, Teasern und URL der Artikel eines Captures
+
 fp-nzz-complete.csv - Die Daten des untersuchten Zeitraums in einem CSV aggregiert
 
 # Visualisierung
@@ -52,11 +55,19 @@ xxxxxx.svg - finale Grafik für Weiterverarbeitung in Illustrator etc. pp.
 # Arbeitsprotokoll
 
 29./30.12.2020  2h  Idee entwickeln, Scraper für Internet Archive recherchieren
+
 01.02.2021      6h  Scraper programmieren
+
 02.02.2021      6h  Daten zusammenführen und bereinigen
+
 04.02.2021      6h  Analyse & erste Visualisierungen
+
 08.-12.02.2021  2h  Briefings mit Anja Lemcke, Christina Neuhaus, Barnaby Skinner
+
 08.02.2021      4h  versch. Bugfixes & Erweiterungen
+
 11.02.2021      1h  Projektdokumentation anlegen
-  finale Grafiken erstellen, Annotationen verfassen
+
+finale Grafiken erstellen, Annotationen verfassen
+
 24.-25.02.2021  xh  Produktion und Veröffentlichung, Social Media
