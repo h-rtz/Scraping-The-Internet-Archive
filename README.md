@@ -6,11 +6,9 @@
 
 Am 25.2.2020 wurde die erste Coronainfektion in der Schweiz nachgewiesen. Seitdem hat das Virus nicht nur die Infizierten im Griff, sondern sich tief in unser aller Leben gefressen. Das lässt sich auch daran ablesen, dass auf der Startseite der NZZ nur wenige Themen gegen den (facettenreichen) Corona-Reigen eine Chance hatten: Lockdown und Schliessungen, die Maskenpflicht und deren Verweigerung, finanzielle und psychische Belastungen, die Toten, das stets unperfekte Testen und Tracen, die Impfstoffe. Wie viel Raum diese Themen in den letzten 12 Monaten auf der Frontpage der NZZ hatten, zeichne ich in einer Visualisierung nach.
 
-## Publikation am 25. Februar 2021
+## Publikation
 
-im Ressort Schweiz der NZZ:
-
-www.nzz.ch/ld.1602331
+am 25. Februar 2021 im Ressort Schweiz der NZZ (online); ggf. folgt eine Print-Version.
 
 ## Idee
 
@@ -43,17 +41,21 @@ Die eigentliche Schwierigkeit besteht darin, die Visualisierung so zu optmieren,
 
 ## Briefing
 
-tbd.
+Mein Briefing fand nicht mit den "klassischen" Experten statt, sondern auf der Strasse und zwischen Tür und Angel. "Wie hast Du die Medienberichterstattung während der Pandemie erlebt?" - das habe ich meine Nachbarn, Freunde, Kollegen, Bekannte gefragt. Haben die NZZ und andere zu viel über Corona berichtet? Was hat gefehlt, was war zu viel? Stimmt der Eindruck, dass die Omnipräsenz des Themenreigens rund um Corona das ganze Jahr lang nie so richtig abriss, dass es nicht einmal im doch relativ unbeschwerten Sommer eine "Sendepause für das Virus" gab?
+
+Das müsste man mal nachzählen! - befanden viele. Und genau das tut diese Datenanalyse. 
 
 # Code, Daten und Visualisierung
 
-<a href=https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/IAScraper.ipynb>IAScraper.ipynb</a> - Scraper
+<a href=https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/IAScraper.ipynb>IAScraper.ipynb</a> - Scraper zur Datenbeschaffung von archive.org.
 
-<a href=https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/CoronaTrendsSchweiz.ipynb>CoronaTrendsSchweiz.ipynb</a> - Datenbereinigung und -analyse, Visualisierung
+<a href=https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/CoronaTrendsSchweiz.ipynb>CoronaTrendsSchweiz.ipynb</a> - Datenbereinigung, -exploration und -analyse, Konzept der Visualisierung.
 
-<a href=https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/frontpage_complete.csv>frontpage_complete.csv</a> - Die Daten des untersuchten Zeitraums in einem CSV aggregiert
+<a href=https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/DataViz-Sandbox.ipynb>DataViz-Sandbox.ipynb</a> - Feinjustage Visualisierung; Algorithmus zur Ermittlung von Peaks (wann war welches Thema am stärksten präsent).
 
-<a href=https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/CoronatrendsSteamgraph.svg>CoronatrendsSteamgraph.svg</a> - finale Grafik für Weiterverarbeitung in Illustrator etc. pp.
+Die Daten des untersuchten Zeitraums sind aufgrund ihres Umfangs <a href=https://drive.google.com/drive/folders/1vNWtfJrk_fRe8HZgz8DtqbRqwHGj_h12>auf Google Drive</a> abgelegt. 
+
+<a href=https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/grafik/>Finale Grafiken</a> für Weiterverarbeitung in Illustrator etc. pp.
 
 # Arbeitsprotokoll
 
@@ -67,10 +69,10 @@ Datum | Zeitaufwand | Beschreibung
 08.-12.02.2021 | 2h | Briefings mit Anja Lemcke (NZZ Visuals), Christina Neuhaus (RL NZZ Schweiz), Barnaby Skinner (RL NZZ Visuals)
 08.02.2021 | 4h | versch. Bugfixes & Erweiterungen
 11./17.02.2021 | 3h | Projektdokumentation anlegen
-17./18.02.2021 | 8h |finale Grafiken erstellen, Annotationen verfassen
-24.-25.02.2021 | 2h | Produktion und Veröffentlichung, Social Media
+17.-19.02.2021 | 12h | Grafiken überarbeitet, Annotationen erstellet, Übergabe an Jonas Oesch (NZZ Visuals)
+24.-25.02.2021 | 2h | Produktion und Veröffentlichung, Social Media (tbd.)
 
-Gesamter ca. 40 Arbeitsstunden 
+Gesamt ca. 40 Arbeitsstunden 
 
 
 ```python
