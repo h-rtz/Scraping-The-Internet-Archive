@@ -8,7 +8,7 @@ Am 25.2.2020 wurde die erste Coronainfektion in der Schweiz nachgewiesen. Seitde
 
 ## Publikation
 
-am 25. Februar 2021 im Ressort Schweiz der NZZ (online); ggf. folgt eine Print-Version.
+am <a href=https://edit.nzz.ch/articles/1602331/edit/canvas>25. Februar 2021 im Ressort Schweiz der NZZ</a> (online); ggf. folgt eine Print-Version.
 
 ## Idee
 
