@@ -8,7 +8,7 @@ Am 25.2.2020 wurde die erste Coronainfektion in der Schweiz nachgewiesen. Seitde
 
 ## Publikation
 
-am [25. Februar 2021 (online)](https://www.nzz.ch/das-jahr-der-unruhe-ld.1602331) und [am 9. M�rz 2021 (print)](https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/NZZ210309il_DatenanalyseCorona.pdf) im Ressort Schweiz der NZZ.
+am [25. Februar 2021 (online)](https://www.nzz.ch/das-jahr-der-unruhe-ld.1602331) und [am 9. März 2021 (print)](https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/NZZ210309il_DatenanalyseCorona.pdf) im Ressort Schweiz der NZZ.
 
 ## Idee
 
@@ -29,7 +29,7 @@ Der Datensatz bietet sich gerade jetzt dafür an, visuell nachzuzeichnen, welche
 
 Im Netz findet man schnell viele Vorbilder für das Scraping verschiedenster Inhalte von archive.org, die als Hilfestellung herangezogen werden können. Mir haben vor allem die [Erläuterungen von Abhi Kumbar auf medium.com](https://medium.com/analytics-vidhya/the-wayback-machine-scraper-63238f6abb66) geholfen. Bei der Textanalyse der Titel und Teaser habe ich mich an den Beispielen von Thomas Ebermann im MAZ-Kurs DJ 2020/21 orientiert.
 
-**Erwarteter Ertrag:** 
+**Erwarteter Ertrag:**
 
 Ein von einer einzigen, grossen Grafik getragener Beitrag für [nzz.ch/schweiz](https://nzz.ch/schweiz), der vor allem auf mobilen Endgeräten ein unterhaltsames Leseerlebnis bietet. Durch den engen Bezug auf das eigene Erleben der Coronapandemie in der Schweiz wird die Visualisierung beim Leser verschiedenste Emotionen wecken.
 
@@ -43,7 +43,7 @@ Die eigentliche Schwierigkeit besteht darin, die Visualisierung so zu optmieren,
 
 Mein Briefing fand nicht mit den "klassischen" Experten statt, sondern auf der Strasse und zwischen Tür und Angel. "Wie hast Du die Medienberichterstattung während der Pandemie erlebt?" - das habe ich meine Nachbarn, Freunde, Kollegen, Bekannte gefragt. Haben die NZZ und andere zu viel über Corona berichtet? Was hat gefehlt, was war zu viel? Stimmt der Eindruck, dass die Omnipräsenz des Themenreigens rund um Corona das ganze Jahr lang nie so richtig abriss, dass es nicht einmal im doch relativ unbeschwerten Sommer eine "Sendepause für das Virus" gab?
 
-Das müsste man mal nachzählen! - befanden viele. Und genau das tut diese Datenanalyse. 
+Das müsste man mal nachzählen! - befanden viele. Und genau das tut diese Datenanalyse.
 
 # Code, Daten und Visualisierung
 
@@ -53,11 +53,11 @@ Das müsste man mal nachzählen! - befanden viele. Und genau das tut diese Daten
 
 [DataViz-Sandbox.ipynb](https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/DataViz-Sandbox.ipynb) - Feinjustage Visualisierung; Algorithmus zur Ermittlung von Peaks (wann war welches Thema am stärksten präsent).
 
-Die Daten des untersuchten Zeitraums sind aufgrund ihres Umfangs [auf Google Drive](https://drive.google.com/drive/folders/1vNWtfJrk_fRe8HZgz8DtqbRqwHGj_h12) abgelegt. 
+Die Daten des untersuchten Zeitraums sind aufgrund ihres Umfangs [auf Google Drive](https://drive.google.com/drive/folders/1vNWtfJrk_fRe8HZgz8DtqbRqwHGj_h12) abgelegt.
 
 [Finale Grafiken](https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/grafik/) für Weiterverarbeitung in Illustrator etc. pp.
 
-[Fertiges Print-Produkt](https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/NZZ210309il_DatenanalyseCorona.pdf
+[Fertiges Print-Produkt](https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/NZZ210309il_DatenanalyseCorona.pdf)
 
 # Arbeitsprotokoll
 
@@ -74,4 +74,4 @@ Datum | Zeitaufwand | Beschreibung
 17.-19.02.2021 | 12h | Grafiken überarbeitet, Annotationen erstellet, Übergabe an Jonas Oesch (NZZ Visuals)
 24.-25.02.2021 | 2h | Produktion und Veröffentlichung, Social Media (tbd.)
 
-Gesamt ca. 40 Arbeitsstunden 
+Gesamt ca. 40 Arbeitsstunden
