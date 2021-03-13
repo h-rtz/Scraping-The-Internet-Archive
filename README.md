@@ -8,7 +8,7 @@ Am 25.2.2020 wurde die erste Coronainfektion in der Schweiz nachgewiesen. Seitde
 
 ## Publikation
 
-am [25. Februar 2021 im Ressort Schweiz der NZZ](https://www.nzz.ch/das-jahr-der-unruhe-ld.1602331) (online); ggf. folgt eine Print-Version.
+am [25. Februar 2021 (online)](https://www.nzz.ch/das-jahr-der-unruhe-ld.1602331) und [am 9. M�rz 2021 (print)](https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/NZZ210309il_DatenanalyseCorona.pdf) im Ressort Schweiz der NZZ.
 
 ## Idee
 
@@ -56,6 +56,8 @@ Das müsste man mal nachzählen! - befanden viele. Und genau das tut diese Daten
 Die Daten des untersuchten Zeitraums sind aufgrund ihres Umfangs [auf Google Drive](https://drive.google.com/drive/folders/1vNWtfJrk_fRe8HZgz8DtqbRqwHGj_h12) abgelegt. 
 
 [Finale Grafiken](https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/grafik/) für Weiterverarbeitung in Illustrator etc. pp.
+
+[Fertiges Print-Produkt](https://github.com/h-rtz/Scraping-The-Internet-Archive/blob/main/NZZ210309il_DatenanalyseCorona.pdf
 
 # Arbeitsprotokoll
 
